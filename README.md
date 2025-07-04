@@ -1,6 +1,6 @@
 # Fatores de performance de estudantes
 
-Eu obtive esse dataset no [Acesse o dataset no Kaggle](https://www.kaggle.com/datasets/lainguyn123/student-performance-factors)
+Eu obtive esse dataset no [Kaggle](https://www.kaggle.com/datasets/lainguyn123/student-performance-factors)
  com objetivo de treinar minhas habilidades obtidas durante o curso de ciência de dados da EBAC - Escola Britânica de Artes Criativas & Tecnologia
 
 Este dataset fornece uma visão abrangente de vários fatores que afetam o desempenho dos alunos em exames. Ele inclui informações sobre hábitos de estudo, frequência escolar, envolvimento dos pais e outros aspectos que influenciam o sucesso acadêmico.
