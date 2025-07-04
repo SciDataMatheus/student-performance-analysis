@@ -1,6 +1,7 @@
 # Fatores de performance de estudantes
 
-Eu obtive esse dataset no https://www.kaggle.com/datasets/lainguyn123/student-performance-factors com objetivo de treinar minhas habilidades obtidas durante o curso de ciência de dados da EBAC - Escola Britânica de Artes Criativas & Tecnologia
+Eu obtive esse dataset no [Acesse o dataset no Kaggle](https://www.kaggle.com/datasets/lainguyn123/student-performance-factors)
+ com objetivo de treinar minhas habilidades obtidas durante o curso de ciência de dados da EBAC - Escola Britânica de Artes Criativas & Tecnologia
 
 Este dataset fornece uma visão abrangente de vários fatores que afetam o desempenho dos alunos em exames. Ele inclui informações sobre hábitos de estudo, frequência escolar, envolvimento dos pais e outros aspectos que influenciam o sucesso acadêmico.
 
@@ -30,3 +31,5 @@ Vou explorar os dados que estão no formato CSV, em especial estou interessado e
 | Distance_from_Home | Distância de casa até a escola (Próximo, Moderado, Longe). |
 | Gender | Gênero do estudante (Masculino, Feminino). |
 | Exam_Score | Nota do exame final (default). |
+
+Meu arquivo sobre a Coleta de dados, modelagem e conclusões: [notebook markdown](https://github.com/SciDataMatheus/student-performance-analysis/blob/main/coleta_modelagem_conclusoes.ipynb)
